@@ -26,7 +26,7 @@ resource-capacity-planner/
 ├── .env.local.example
 ├── next.config.js
 └── package.json
-```
+````
 
 ---
 
